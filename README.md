@@ -10,6 +10,8 @@ Built out QR code component as part of a Frontend Mentor practice using HTML and
 
 ### Links
 
+https://joanterm.github.io/QR-Code-Component-Challenge/
+
 ### Built with
 
 - Semantic HTML5 markup
