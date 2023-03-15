@@ -6,8 +6,8 @@ Built out QR code component as part of a Frontend Mentor practice using HTML and
 
 ### Screenshot
 
-![desktop view](./qr-desktop.png)
-![desktop view](./qr-mobile.png)
+![desktop view](./images/qr-desktop.png)
+![desktop view](./images/qr-mobile.png)
 
 ### Links
 
